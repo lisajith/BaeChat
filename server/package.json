@@ -20,3 +20,7 @@
     "validator": "^13.12.0"
   }
 }
+
+"scripts": {
+  "start": "node server.js"  // or the entry point for your server
+}
